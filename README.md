@@ -1,6 +1,6 @@
 
 # WhereIsMyVaccine
-This script logs the current availability of vaccine doses in the given cities and shouts when your desired vaccine(s) become(s) available!
+This script periodically logs the current availability of vaccine doses in the given cities and shouts when your desired vaccine(s) become(s) available!
 ![Demo](demo.png)
 
 ## How to use
